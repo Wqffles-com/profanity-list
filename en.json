@@ -1,5 +1,13 @@
 [
   {
+    "id": "link",
+    "match": "https://|http://",
+    "tags": [
+      "link"
+    ],
+    "severity": 2
+  },
+  {
     "id": "1man1jar",
     "match": "1m1j|1man1jar|1 man 1 jar|one man one jar|one jar one man",
     "tags": [
