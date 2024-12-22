@@ -1536,32 +1536,6 @@
     "severity": 3
   },
   {
-    "id": "enby",
-    "match": "enby",
-    "tags": [
-      "lgbtq"
-    ],
-    "severity": 3,
-    "exceptions": [
-      "all*",
-      "as*",
-      "brook*",
-      "ca*",
-      "d*",
-      "froz*te",
-      "gat*",
-      "hold*",
-      "lack*",
-      "laz*",
-      "nav*",
-      "ott*",
-      "r*gda",
-      "t*",
-      "warr*",
-      "wh*"
-    ]
-  },
-  {
     "id": "eskimo-trebuchet",
     "match": "eskimo trebuchet",
     "tags": [
